@@ -1,0 +1,54 @@
+@media(max-width:500px) {
+    .menu {
+        display: none;
+    }
+    .logo {
+        width: 19%;
+        margin-top: 15px;
+    }
+    .bar a {
+        display: block;
+        width: 91%;
+        font-size: 24px;
+    }
+    .benner-design h2 {
+        font-size: 29px;
+        margin-top: 9px;
+        margin-bottom: 22px;
+    }
+    .benner-design a {
+        color: #ffffff;
+        padding: 10px 30px;
+        border-radius: 8px 12px;
+        font-size: 17px;
+        text-shadow: 1px 1px 1px red;
+    }
+    .benner h2 span {
+        font-size: 40px;
+    }
+    .benner h2 span {
+        font-size: 30px;
+    }
+    .member {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .service {
+        padding: 4px 0;
+    }
+    .service-title h3 {
+        font-size: 34px;
+    }
+    .service-title p {
+        font-size: 15px;
+        margin-top: 7px;
+    }
+    .item {
+        width: 100%;
+        margin-bottom: 5px;
+        margin-top: -40px;
+    }
+    footer {
+        padding: 15px 0;
+    }
+}
